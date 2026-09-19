@@ -1,0 +1,7 @@
+/* ============================================================
+   PRO LOCO ZAGAROLO — news.css
+   Elenco e dettaglio news.
+   ============================================================ */
+
+.article{max-width:760px;font-size:18px;color:var(--ink-soft)}
+.article small{color:var(--muted);letter-spacing:.5px}
